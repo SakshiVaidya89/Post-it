@@ -1,1 +1,1 @@
-# Journalling
+# Blogging website
